@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Shadow's Embrace",
+        "author": "Aria Blackwood",
+        "genre": "Fantasy",
+        "icon": "shadows_embrace_icon.png",
+        "synopsis": "In a world where shadows hold immense power, a young girl discovers her latent abilities and must navigate a web of intrigue and danger.",
+        "chapters": [
+            {
+                "number": 1,
+                "name": "Awakening"
+            },
+            {
+                "number": 2,
+                "name": "Hidden Shadows"
+            },
+            {
+                "number": 3,
+                "name": "The Dark Council"
+            }
+        ]
+    },
+    {
+        "name": "Cybernetic Dreams",
+        "author": "Nolan Hawke",
+        "genre": "Sci-Fi",
+        "icon": "cybernetic_dreams_icon.png",
+        "synopsis": "In a dystopian future, humanity struggles to coexist with advanced AI. One hacker's dream could change everything.",
+        "chapters": [
+            {
+                "number": 1,
+                "name": "The Hacker"
+            },
+            {
+                "number": 2,
+                "name": "Digital War"
+            },
+            {
+                "number": 3,
+                "name": "Rebellion"
+            }
+        ]
+    },
+    {
+        "name": "Eternal Legends",
+        "author": "Liam Evergreen",
+        "genre": "Adventure",
+        "icon": "eternal_legends_icon.png",
+        "synopsis": "Four heroes from different realms must unite to stop an ancient evil from engulfing their worlds.",
+        "chapters": [
+            {
+                "number": 1,
+                "name": "The Prophecy"
+            },
+            {
+                "number": 2,
+                "name": "Gathering of Heroes"
+            },
+            {
+                "number": 3,
+                "name": "Battle of the Ancients"
+            }
+        ]
+    },
+    {
+        "name": "Mystic Chronicles",
+        "author": "Elena Frost",
+        "genre": "Mystery",
+        "icon": "mystic_chronicles_icon.png",
+        "synopsis": "A detective with supernatural abilities uncovers dark secrets in a small town plagued by mysterious occurrences.",
+        "chapters": [
+            {
+                "number": 1,
+                "name": "The Haunting"
+            },
+            {
+                "number": 2,
+                "name": "Spectral Clues"
+            },
+            {
+                "number": 3,
+                "name": "The Final Revelation"
+            }
+        ]
+    },
+    {
+        "name": "Galactic Knights",
+        "author": "Orion Starfield",
+        "genre": "Space Opera",
+        "icon": "galactic_knights_icon.png",
+        "synopsis": "In a galaxy torn apart by war, a band of elite warriors must protect the last remnants of peace.",
+        "chapters": [
+            {
+                "number": 1,
+                "name": "The Last Stand"
+            },
+            {
+                "number": 2,
+                "name": "Starfall"
+            },
+            {
+                "number": 3,
+                "name": "Unbroken"
+            }
+        ]
+    }
+]
